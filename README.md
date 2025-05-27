@@ -14,7 +14,7 @@ This project implements an Identity Reconciliation service as part of the Bitesp
 ## Hosted URL for testing
 
 ```
-https://bitespeed-identity-reconciliation-k6d1.onrender.com/
+https://bitespeed-3-4i10.onrender.com
 ```
 
 ## Tech Stack
@@ -47,7 +47,7 @@ DB_HOST=your_host
 DB_NAME=your_database_name
 DB_PASSWORD=your_password
 DB_PORT=your_port
-PORT=3000
+PORT=1000
 ```
 
 4. Start the server:
