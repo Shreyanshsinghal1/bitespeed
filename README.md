@@ -47,7 +47,7 @@ DB_HOST=your_host
 DB_NAME=your_database_name
 DB_PASSWORD=your_password
 DB_PORT=your_port
-PORT=1000
+PORT=10000
 ```
 
 4. Start the server:
