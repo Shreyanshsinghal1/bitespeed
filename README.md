@@ -51,7 +51,9 @@ PORT=1000
 ```
 
 4. Start the server:
+   ```
    node src/app.js
+   ```
 
 The server will start on `http://localhost:3000` (or the port specified in your .env file).
 
