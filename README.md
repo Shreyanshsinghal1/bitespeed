@@ -30,7 +30,7 @@ https://bitespeed-3-4i10.onrender.com
 
 ```bash
  git clone https://github.com/your-username/bitespeed-identity.git
- cd bitespeed-identity
+ cd bitespeed
 ```
 
 2. Install dependencies:
