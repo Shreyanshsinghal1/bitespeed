@@ -29,7 +29,7 @@ https://bitespeed-3-4i10.onrender.com
 1. Clone the repository:
 
 ```bash
- git clone https://github.com/your-username/bitespeed-identity.git
+ git clone https://github.com/your-username/bitespeed
  cd bitespeed
 ```
 
